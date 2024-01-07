@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
   
-    background: linear-gradient(rgba(239, 103, 167, 0.983), rgb(211, 71, 229));
+    background: linear-gradient(rgb(211, 71, 229), rgba(239, 103, 167, 0.983));
   }
   
   #noButton {
